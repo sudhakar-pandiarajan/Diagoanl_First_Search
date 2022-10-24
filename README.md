@@ -14,3 +14,19 @@ In our approach, the acoustic feature representation was obtained from the RASTA
 
 The similarity matching was performed by capturing the similarity at the diagonal level with the depth threshold to obtain similar spoken terms. 
 
+Kindly refer to the python implementation in the repository /demo.ipynb
+
+# Citation 
+
+please cite our work:
+```
+@article{DFS202202,
+title = {Unsupervised spoken term discovery using diagonal first search},
+publication = {To be updated},
+year = {2022},
+doi = {},
+url = {},
+author = {Sudhakar P and Kishore Kumar R and Sreenivasa Rao K and Pabitra Mitra}
+}
+
+```
