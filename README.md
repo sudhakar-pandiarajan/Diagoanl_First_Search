@@ -20,10 +20,10 @@ Kindly refer to the python implementation in the repository https://github.com/s
 
 please cite our work:
 ```
-@article{DFS202202,
-title = {Unsupervised spoken term discovery using diagonal first search},
-publication = {To be updated},
-year = {2022},
+@article{DFS2023sudhakar,
+title = {Unsupervised Discovery of Recurring Spoken Terms using Diagonal Patterns},
+publication = {10th International Conference on Pattern Recognition and Machine Intelligence},
+year = {2023},
 doi = {},
 url = {},
 author = {Sudhakar P and Kishore Kumar R and Sreenivasa Rao K and Pabitra Mitra}
